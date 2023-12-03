@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👀
+
+My name is Nils Meijer. This is probably the first time you've heard of me so I will introduce myself here. 
+
+I'm located in Enschede, the Netherlands. Finishing up my bachelor's in Game Development at the Saxion, University of Applied Sciences. 
+
+- 🌱 Learning Python, Unreal Engine, ThreeJS
+- 🔥 Proficient with Unity, C#
 
 <!--
 **ngmeijer/ngmeijer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +13,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
