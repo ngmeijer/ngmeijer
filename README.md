@@ -10,7 +10,7 @@ I'm located in Enschede, the Netherlands. Finishing up my bachelor's in Game Dev
 - 📫 How to reach me: visit [my portfolio website](https://nilsmeijer.com) for a contact form and other communication channels!
 
 [![Nils Meijer's stats](https://github-readme-stats.vercel.app/api?username=ngmeijer)](https://github.com/ngmeijer/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngmeijer&hide=tex,shaderlab)](https://github.com/ngmeijer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngmeijer&hide=tex,shaderlab,postscript)](https://github.com/ngmeijer/github-readme-stats)
 
 <!--
 **ngmeijer/ngmeijer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
