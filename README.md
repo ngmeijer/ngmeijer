@@ -9,7 +9,7 @@ I'm located in Enschede, the Netherlands. Finishing up my bachelor's in Game Dev
 - ⚡ Worked on international, multidisplinary projects for professional clients as well as on solo private projects
 - 📫 How to reach me:
           visit [my portfolio website](https://nilsmeijer.com) for a concentrated view of my best projects!
-          My [LinkedIn]([https://nilsmeijer.com](https://www.linkedin.com/in/nilsmeijer1/)) to get into contact
+          My [LinkedIn](https://www.linkedin.com/in/nilsmeijer1/) to get into contact
 
 [![Nils Meijer's stats](https://github-readme-stats.vercel.app/api?username=ngmeijer&theme=transparent)](https://github.com/ngmeijer/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngmeijer&theme=transparent&hide=tex,shaderlab,postscript)](https://github.com/ngmeijer/github-readme-stats)
