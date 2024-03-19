@@ -11,7 +11,7 @@ I'm located in Enschede, the Netherlands. Finishing up my bachelor's in Game Dev
 Visit [my portfolio website](https://nilsmeijer.com) for a concentrated view of my best projects!<br>
 My [LinkedIn](https://www.linkedin.com/in/nilsmeijer1/) to get into contact with me.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=testing-the-quote-function&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=testing-the-quote-function?border=true?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 [![Nils Meijer's stats](https://github-readme-stats.vercel.app/api?username=ngmeijer&theme=transparent)](https://github.com/ngmeijer/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngmeijer&theme=transparent&hide=tex,shaderlab,postscript)](https://github.com/ngmeijer/github-readme-stats)
 
