@@ -1,3 +1,5 @@
+<h1>Currently looking for a graduation internship in the field of AI or Gameplay programming!</h1>
+
 ### Hi there 👀
 
 My name is Nils Meijer. This is probably the first time you've heard of me so I will introduce myself here. 
