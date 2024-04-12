@@ -6,7 +6,7 @@ My name is Nils Meijer. This is probably the first time you've heard of me so I 
 
 I'm located in Enschede, the Netherlands. Finishing up my bachelor's in Game Development as an engineer at Saxion, University of Applied Sciences. 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=I%20have%20never%20done%20it%20before%2C%20so%20I%20think%20I%20can%20do%20it)](https://github.com/piyushsuthar/github-readme-quotes)
 
 - 🌱 Learning GLSL, Networking and Deep Learning!
 - 🔥 Proficient with Unity/C#, Unreal Engine
