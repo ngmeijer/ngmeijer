@@ -1,10 +1,10 @@
-<h1>Currently looking for a graduation internship in the field of AI or Gameplay programming!</h1>
+<h1>Currently looking for a junior developer role in the field of Software or Game Development!</h1>
 
 ### Hi there 👀
 
 My name is Nils Meijer. This is probably the first time you've heard of me so I will introduce myself here. 
 
-I'm located in Enschede, the Netherlands. Finishing up my bachelor's in Game Development as an engineer at Saxion, University of Applied Sciences. 
+I'm located in Enschede, the Netherlands. Recently graduated from Creative Media & Game Technologies as an engineer at Saxion, University of Applied Sciences. 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=I%20have%20never%20done%20it%20before%2C%20so%20I%20think%20I%20can%20do%20it)](https://github.com/piyushsuthar/github-readme-quotes)
 
