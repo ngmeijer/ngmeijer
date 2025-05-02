@@ -8,8 +8,8 @@ I'm located in Enschede, the Netherlands. Recently graduated from Creative Media
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=I%20have%20never%20done%20it%20before%2C%20so%20I%20think%20I%20can%20do%20it)](https://github.com/piyushsuthar/github-readme-quotes)
 
-- 🌱 Learning GLSL, Networking and Deep Learning!
-- 🔥 Proficient with Unity/C#, Unreal Engine
+- 🌱 Learning MySQL, PHP and Machine Learning!
+- 🔥 Experienced with Unity/C#, proficient with Unreal Engine
 - ⚡ Worked on international, multidisplinary projects for professional clients as well as on solo private projects
 - 📫 How to reach me:<br>
 Visit [my portfolio website](https://nilsmeijer.com) for a concentrated view of my best projects!<br>
