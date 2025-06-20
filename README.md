@@ -1,5 +1,3 @@
-<h1>Currently looking for a junior developer role in the field of Software or Game Development!</h1>
-
 ### Hi there 👀
 
 My name is Nils Meijer. This is probably the first time you've heard of me so I will introduce myself here. 
